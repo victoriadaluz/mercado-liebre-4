@@ -1,0 +1,14 @@
+/* ****** */
+/* Footer */
+/* ****** */
+
+footer div {
+    text-align: center;
+    margin: 20px;
+    
+}
+footer div i {
+    color: var(--color-celeste);
+    font-size: 2em;
+    margin: 10px;
+}
